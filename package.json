@@ -1,0 +1,20 @@
+{
+  "name": "multi-language-graphcms-gatsby",
+  "private": true,
+  "description": "A multi-language site built with Gatsby + GraphCMS.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+  },
+  "dependencies": {
+    "gatsby": "^2.1.11",
+    "gatsby-source-graphql": "^2.0.10",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
